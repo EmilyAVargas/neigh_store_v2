@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655041543797",
+    "project_id": "neighstoresappproject",
+    "storage_bucket": "neighstoresappproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655041543797:android:ba96acb18c88d7026dc23c",
+        "android_client_info": {
+          "package_name": "com.uelbosque.neighStores.neigh_stores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655041543797-j5128fe67riikjirs5skmq2s5v2p1v1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAwIdlqOULjljG0gk51mpBLtCLrgYQx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655041543797-j5128fe67riikjirs5skmq2s5v2p1v1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
